@@ -1,8 +1,8 @@
 {
 	"FileVersion": 3,
 	"Version": 1,
-	"VersionName": "1.1.0",
-	"SemVersion": "1.1.0",
+	"VersionName": "1.2.0",
+	"SemVersion": "1.2.0",
 	"FriendlyName": "Red Solo Cup",
 	"Description": "This mod adds a red solo cup to the game for you to carry around.",
 	"Category": "Modding",
@@ -18,8 +18,9 @@
 	"Plugins": [
 		{
 			"Name": "SML",
-			"SemVersion": "^3.7.0",
+			"SemVersion": "^3.9.0",
 			"Enabled": true
 		}
-	]
+	],
+	"GameVersion": ">=383729"
 }
